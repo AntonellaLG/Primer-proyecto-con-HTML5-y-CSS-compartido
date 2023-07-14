@@ -52,7 +52,7 @@ ul{
         grid-template-columns: repeat(4, 1fr); /*hay 4 cols, 1fr es el redimensionamiento de cada col.     https://docs.emmet.io/cheat-sheet/*/
     }
 
-    #opcionesIzquierdo{
+    #opcionesDerecho{
         display: grid;
         grid-template-columns: 1fr 1fr; /*o puedo poner repeat(2, 1fr)*/  
     }
